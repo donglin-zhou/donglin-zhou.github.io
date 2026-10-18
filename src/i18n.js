@@ -304,8 +304,8 @@ document.addEventListener('error', function (e) {
       'nav.academic': 'Academic',
       'nav.publications': 'Works',
     'nav.practice': 'Practice',
-  'practice.title': 'Practice | Zhou Donglin',
-  'practice.metaDesc': 'Zhou Donglin - Practice: representative professional awards and internship experience',
+  'practice.title': 'Practice | Donglin Zhou',
+  'practice.metaDesc': 'Donglin Zhou - Practice: representative professional awards and internship experience',
   'practice.heroTitle': 'Professional Practice',
   'practice.intro': 'Communication and media is a highly practice-oriented discipline in which theoretical knowledge is tested and deepened. During my undergraduate studies I completed three high-quality internships across traditional media, international communication, corporate public relations, and event planning, honing solid practical media skills, and I have won several awards in high-level professional competitions',
   'practice.awardsTitle': 'Representative Professional Awards',
@@ -347,13 +347,13 @@ document.addEventListener('error', function (e) {
       'nav.footerNav': 'Navigation',
       'footer.role': 'A versatile media professional with both content production capabilities and academic research vision',
       'footer.contact': 'Contact me: ',
-      'footer.copyright': '© 2026 Zhou Donglin. All rights reserved.',
+      'footer.copyright': '© 2026 Donglin Zhou. All rights reserved.',
       'lang.switch': '中文 / EN',
       'lang.aria': 'Switch language',
 
       // ========== 首页 ==========
       'home.heroTag': 'Personal Website & Portfolio',
-      'home.heroName': 'Zhou Donglin',
+      'home.heroName': 'Donglin Zhou',
       'home.heroTagline': 'A versatile media professional with both content production capabilities and academic research vision',
       'home.identity1': 'Creator on China Youth Network\'s "Youth Account"',
       'home.identity2': '\u201cBest Producer\u201d for the national-level original play Tracing the Earth\'s Veins',
@@ -379,12 +379,12 @@ document.addEventListener('error', function (e) {
       'home.photo3': 'Conducting field research and attending a symposium in Hong\'an County',
       'home.photo4': 'Running the 2025 Huanggang Half Marathon',
       'home.photo5': 'At Wuhan Qintai Concert Hall',
-      'home.metaDesc': 'Zhou Donglin - A versatile media professional with content production and academic research capabilities',
-      'home.title': 'Zhou Donglin Personal Website & Portfolio',
+      'home.metaDesc': 'Donglin Zhou - A versatile media professional with content production and academic research capabilities',
+      'home.title': 'Donglin Zhou Personal Website & Portfolio',
 
       // ========== 学术页 ==========
-      'academic.metaDesc': 'Zhou Donglin - Academic research: papers and research projects',
-      'academic.title': 'Academic | Zhou Donglin',
+      'academic.metaDesc': 'Donglin Zhou - Academic research: papers and research projects',
+      'academic.title': 'Academic | Donglin Zhou',
       'academic.heroTitle': 'Academic Research',
       'academic.heroDesc': 'Rooted in the Communication Studies discipline and deeply engaged in rural revitalization and Mandarin promotion, I research cultural communication and new media communication, striving to explore innovative paths for communication in the digital-intelligent era.',
       'academic.tabPapers': 'Papers',
@@ -473,8 +473,8 @@ document.addEventListener('error', function (e) {
       'academic.gallery11': 'Letter of thanks presented to our team by the Luotian County Bureau of Culture and Tourism',
 
       // ========== 出版页 ==========
-      'publications.metaDesc': 'Zhou Donglin - Media Works: news, videos, commentaries',
-      'publications.title': 'Works | Zhou Donglin',
+      'publications.metaDesc': 'Donglin Zhou - Media Works: news, videos, commentaries',
+      'publications.title': 'Works | Donglin Zhou',
       'publications.heroTitle': 'Media Works',
       'publications.heroDesc': 'Selected representative news reports, video productions, and commentary pieces—recording the times and amplifying voices through diverse forms.',
       'publications.tabNews': 'News',
@@ -538,8 +538,8 @@ document.addEventListener('error', function (e) {
       'publications.review2.source': 'Commentary · iFeng',
 
       // ========== 公益页 ==========
-      'welfare.metaDesc': 'Zhou Donglin - Charity work',
-      'welfare.title': 'Charity | Zhou Donglin',
+      'welfare.metaDesc': 'Donglin Zhou - Charity work',
+      'welfare.title': 'Charity | Donglin Zhou',
       'welfare.heroTitle': 'Charity Stories',
       'welfare.heroDesc': 'Applying media expertise to public welfare, conveying warmth and strength through the lens and the written word.',
       'welfare.story1.title': 'Tongxing Guardian: Caring for Children with Autism',
@@ -559,8 +559,8 @@ document.addEventListener('error', function (e) {
       'welfare.cert4': '"Outstanding Volunteer" for the agricultural livestreaming at Hubei Agricultural Expo',
 
       // ========== 爱好页 ==========
-      'hobbies.metaDesc': 'Zhou Donglin - Hobbies: music and marathon running',
-      'hobbies.title': 'Hobbies | Zhou Donglin',
+      'hobbies.metaDesc': 'Donglin Zhou - Hobbies: music and marathon running',
+      'hobbies.title': 'Hobbies | Donglin Zhou',
       'hobbies.heroTitle': 'Hobbies & Interests',
       'hobbies.heroDesc': 'Music nourishes the soul, sports forge the will—passion gives life its warmth.',
       'hobbies.music.title': 'Music',

@@ -1,4 +1,4 @@
-# Zhou Donglin — Personal Website & Portfolio
+# Donglin Zhou — Personal Website & Portfolio
 
 Static bilingual (Chinese/English) personal website. Hosted on GitHub Pages (user root site `<username>.github.io`).
 
